@@ -1,7 +1,7 @@
 {
-  "name": "bull-ui",
-  "version": "1.2.3",
-  "description": "Front-end web interface for Bull Job Manager",
+  "name": "bull-ui-temp",
+  "version": "1.0.0",
+  "description": "Front-end web interface for Bull Job Manager with Bull 3.0.0 support",
   "main": "index.js",
   "dependencies": {
     "bluebird": "^2.9.24",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ShaneK/Matador.git"
+    "url": "git@github.com:binarymee/Matador.git"
   },
   "keywords": [
     "matador",
@@ -31,10 +31,10 @@
     "redis",
     "job"
   ],
-  "author": "Shane King <=> (http://lotsofprojects.com/)",
+  "author": "binarymee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ShaneK/Matador/issues"
+    "url": "https://github.com/binarymee/Matador/issues"
   },
-  "homepage": "https://github.com/ShaneK/Matador"
+  "homepage": "https://github.com/binarymee/Matador"
 }

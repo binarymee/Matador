@@ -1,5 +1,7 @@
 # Matador
 
+<b>This is a temporary forked version of bull-ui from <a href="https://github.com/ShaneK/Matador">Matador</a> to support bull 3.0.0. This will be deleted once the issues are fixed in the parent repository.</b>
+
 A node-based web interface for the <a href="https://github.com/OptimalBits/bull">Bull Job Manager</a>
 ***
 
